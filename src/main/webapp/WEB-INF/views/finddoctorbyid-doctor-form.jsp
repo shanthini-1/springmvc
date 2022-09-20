@@ -11,7 +11,7 @@
 <body>
 	<div id="root">
 		<div id="form">
-			<form:form action="getdoctor" method="get" modelAttribute="finddoctorbyid">
+			<form:form action="" method="get" modelAttribute="finddoctorbyid">
 				<div>
 					<label for="DOC_ID">Doctor Id</label>
 					<div>
